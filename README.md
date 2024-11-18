@@ -67,6 +67,11 @@
 
     pyenv local helloworld
     
+*List Virtualenvsg Name*
+
+    pyenv virtualenvs
+
+    
 *Delete Local Version Tag Name*
 
     pyenv virtualenv-delete helloworld
