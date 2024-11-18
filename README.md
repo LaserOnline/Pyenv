@@ -74,8 +74,6 @@
 *Check Version Virtualenvsg
 
     pyenv versions
-
-    pyenv version
     
 *Delete Local Version Tag Name*
 
