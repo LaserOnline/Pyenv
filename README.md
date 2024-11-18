@@ -70,7 +70,10 @@
 *List Virtualenvsg Name*
 
     pyenv virtualenvs
+    
+*Check Version Virtualenvsg
 
+    pyenv version
     
 *Delete Local Version Tag Name*
 
